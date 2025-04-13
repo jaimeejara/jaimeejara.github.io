@@ -1,0 +1,28 @@
+{
+    "albums":
+    [
+        {
+            "title": "Charm",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/Clairo_-_Charm.png",
+            "artist": "Clairo",
+            "date": "2024",
+            "link": "https://www.youtube.com/playlist?list=OLAK5uy_lQoW_Xp-P43hw81AR8LZW9pt1127Gpzvk"
+        },
+
+        {
+            "title": "GINGER",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Brockhampton_-_Ginger.png",
+            "artist": "BROCKHAMPTON",
+            "date": "2019",
+            "link": "https://www.youtube.com/playlist?list=OLAK5uy_nEEyQA8ILwjRa0PdkBB0GNw2KvRh3eISo"
+        },
+
+        {
+            "title": "Heaven or Las Vegas",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/6/60/Cocteau_Twins%E2%80%94Heaven_or_Las_Vegas.jpg",
+            "artist": "Cocteau Twins",
+            "date": "1990",
+            "link": "https://www.youtube.com/playlist?list=OLAK5uy_lxPYZGdCg185g6T9C1O--IoeLy1nvDT80"
+        }
+    ]
+}
