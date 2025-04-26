@@ -5,17 +5,28 @@
         <meta charset = "UTF-8">
 
         <title>
-            ASSIGNMENT 5
+            Assignment 5
         </title>
+        <script src = "p5.min.js"></script>
 
     </head>
 
     <body>
-        Assignment 5 Coming Soon...
    
-        <!--we can use another language,
-         but this is javascript-->
-        <script src = "script.js"></script>
+        <section class="journal-section">
+            <h1 class="journal-heading">My Journal</h1>
+        
+            <form id="journal-form">
+                <textarea id="journal-text" placeholder="Write your thoughts here..." required></textarea>
+                <input type="file" id="journal-image" accept="image/*">
+                <button type="submit">Save Entry</button>
+            </form>
+        
+            <div id="entries-container"></div>
+        </section>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="assignmen5Sketch.js"></script>
     </body>
 
 </html>
